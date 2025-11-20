@@ -28,5 +28,6 @@
 </div>
 
 </div>
-![Snake animation](https://github.com/matheusr-rib/matheusr-rib/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/matheusr-rib/matheusr-rib/output/snake.svg)
+
 </div>
