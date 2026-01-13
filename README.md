@@ -38,12 +38,6 @@ Nesse projeto, venho aprofundando minhas habilidades em:
   <a href="https://www.linkedin.com/in/matheus-ribeiro-developer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<div>
-  <a href="https://github.com/matheusr-rib">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheusr-rib&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusr-rib&layout=compact&hide_border=true&theme=transparent" />
-  </a>
-</div>
 
 ![Snake animation](https://raw.githubusercontent.com/matheusr-rib/matheusr-rib/output/snake.svg)
 
